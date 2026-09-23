@@ -1,2 +1,3 @@
 bbbbbbbbbbbhhhhhhhhhhhhhhh
 reset出来るかなkkkkkkkkk
+セッション情報追記
