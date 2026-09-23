@@ -1,2 +1,8 @@
 bbbbbbbbbbbhhhhhhhhhhhhhhh
 reset出来るかなkkkkkkkkk
+
+
+
+一人目のプロフィール情報記入おｋ
+→プロフィール画像をGetしたら更新する
+二人目のプロフィール情報記入おｋ
