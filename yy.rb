@@ -1,3 +1,9 @@
 bbbbbbbbbbbhhhhhhhhhhhhhhh
 reset出来るかなkkkkkkkkk
+
+
+
+一人目のプロフィール情報記入おｋ
+→プロフィール画像をGetした！
+二人目のプロフィール情報記入おｋ
 セッション情報追記
